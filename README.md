@@ -17,9 +17,9 @@ By analyzing [this dataset](https://github.com/NewbieIndieGameDev/steam-insights
 
 ## Tools and Technologies
 
-- **MySQL** — for database management and queries  
-- **SQL** — for data extraction, aggregation, and insight generation
-- **ChatGPT** — for query optimization and code assistance
+- **MySQL** - for database management and queries  
+- **SQL** - for data extraction, aggregation, and insight generation
+- **ChatGPT** - for query optimization and code assistance
 
 ---
 
